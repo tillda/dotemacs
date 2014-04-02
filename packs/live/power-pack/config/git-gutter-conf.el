@@ -3,7 +3,7 @@
 
 (setq git-gutter:window-width 2)
 
-(global-git-gutter-mode t)
+(global-git-gutter-mode nil)
 
 (setq git-gutter:lighter " G-+")
 

@@ -1,0 +1,1 @@
+("~/Tryouts/chord/" "~/Tryouts/scratch/" "~/.emacs.d/" "~/Tryouts/geheimtur-demo/" "~/Projects/Monaco/" "~/Projects/Monaco/monaco.apiserver/" "~/Projects/Monaco/monaco.codemirror/" "~/Projects/Monaco/devserver/" "~/Projects/Monaco/web/railsapp/" "~/Projects/Monaco/editordemo/")
